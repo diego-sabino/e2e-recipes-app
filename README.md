@@ -1,1 +1,1 @@
-# test-recipes-app
+# Testes e2e com Cypress
