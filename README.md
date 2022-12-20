@@ -1,1 +1,1 @@
-# e2e com Cypress
+# testes E2E
